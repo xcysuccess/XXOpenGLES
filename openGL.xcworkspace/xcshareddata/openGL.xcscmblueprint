@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "13ACAE673A5A763A47471E51E981D094F9EE87FD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "13ACAE673A5A763A47471E51E981D094F9EE87FD" : 0,
+    "C1B01452DC959508D3B734940745906635290813" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "78433D5C-BEAE-478F-A4ED-8109F9C493AF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "13ACAE673A5A763A47471E51E981D094F9EE87FD" : "XXOpenGLES\/",
+    "C1B01452DC959508D3B734940745906635290813" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "openGL",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "openGL.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/xcysuccess\/XXOpenGLES.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "13ACAE673A5A763A47471E51E981D094F9EE87FD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/xcysuccess\/XXLBS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C1B01452DC959508D3B734940745906635290813"
+    }
+  ]
+}
